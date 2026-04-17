@@ -6,6 +6,8 @@
 
 - `01-enterprise-systems/` — 企业级系统与数字化
   - `erp-financial-ai/` — ERP 及财务智能化相关文章
+- `02-ai-engineering/` — AI 工程与大模型实践
+  - `llm-coding/` — LLM 辅助编程与 Agent 工程相关文章
 - `03-domain-knowledge/` — 领域知识与行业实践
   - `healthcare-ai/` — 医疗 AI 相关文章
   - `iot-integration/` — 充电桩及 IoT 集成相关文章
